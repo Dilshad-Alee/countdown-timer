@@ -20,9 +20,10 @@ A sleek and interactive **Countdown Timer** built with **Next.js** and **Tailwin
 ```sh
 git clone https://github.com/your-username/countdown-timer.git
 cd countdown-timer
-**###**2️⃣ **Install Dependencies**
+
+###2️⃣ Install Dependencies
 npm install
-**###**3️⃣ **Run the App**
+###3️⃣ **Run the App**
 npm run dev
 **###**4️⃣ **Open in Browser**
 Visit http://localhost:3000 to see the app in action.
